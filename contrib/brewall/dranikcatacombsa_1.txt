@@ -1,0 +1,2 @@
+P 0.7300, 19.6580, -11.8400,  255, 0, 0,  3,  to_The_Ruined_City_of_Dranik
+P 1238.3666, -2508.7957, -0.2796,  0, 0, 0,  2,  Insidious_Dragorn

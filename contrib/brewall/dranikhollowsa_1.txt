@@ -1,0 +1,7 @@
+P -1519.4230, -645.0760, 44.9440,  128, 64, 0,  2,  Pathmaker_(Named,Roam)
+P -2297.0000, -640.0000, 46.0000,  128, 64, 0,  2,  Dragorn_Quickblade_(Named)
+P -2749.2498, 540.7045, 93.3266,  128, 64, 0,  2,  Discordling_Collector_(Named)
+P -2130.5962, 223.7958, 98.0388,  128, 64, 0,  2,  Discordling_Hollower_(Named)
+P -1521.5586, -643.0801, 44.8723,  128, 64, 0,  2,  Girplan_Pathmaker
+P -1024.6646, -106.3077, -8.3782,  128, 64, 0,  2,  a_shrewd_dragorn
+P -3500.9434, -1578.5081, 3.1800,  240, 0, 0,  3,  to_Dranik's_Scar

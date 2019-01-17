@@ -1,0 +1,14 @@
+P -369.0561, -45.8459, 0.7567,  255, 0, 0,  3,  from_Sverag,_Stronghold_of_Rage
+P -336.7570, -62.0060, 0.1121,  255, 0, 0,  3,  to_Sverag,_Stronghold_of_Rage_(Click_Shield_on_Wall)
+P -356.0000, -62.0000, -0.6428,  255, 0, 0,  2,  Succor
+P -335.5390, 109.9650, -155.3950,  255, 255, 255,  2,  Platform:_Glowing_Shard_of_Mana_Flag
+P -237.0970, 5.2750, 383.7430,  240, 255, 0,  2,  Floor_Door
+P -239.2100, 17.2720, 288.9330,  127, 64, 0,  2,  Snowtail,_Guardian_of_Razorthorn_(Named)
+P -190.9080, -42.0080, 383.7890,  0, 0, 0,  2,  Sullon_Orc_Archer
+P -190.8660, 57.0540, 383.7890,  0, 0, 0,  2,  Sullon_Orc_Archer
+P -421.1390, -14.7590, 193.3160,  127, 64, 0,  2,  Sullon_Corrupt_Minion_(Named)
+P -532.0270, 121.2330, 191.2850,  0, 0, 0,  2,  Sullon_Corrupt_Minion
+P -384.1140, -52.3500, 1.4010,  0, 0, 0,  2,  Sullon_Corrupt_Minion
+P -343.1840, -11.3020, 86.2780,  127, 64, 0,  2,  Ghost,_Guardian_of_Razorthorn_(Named)
+P -372.0800, -63.1220, -0.9360,  255, 255, 0,  2,  Fake_Wall
+P -252.3324, 11.8160, 383.3454,  127, 64, 0,  2,  Sullon_Zek_(Raid_Boss)

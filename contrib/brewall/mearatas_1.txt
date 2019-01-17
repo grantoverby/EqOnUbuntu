@@ -1,0 +1,8 @@
+P -271.5221, -691.9557, 0.6949,  240, 0, 0,  3,  to_Esianti:_Palace_of_the_Winds
+P -260.0000, -697.0000, 0.0000,  0, 0, 0,  2,  Bright_Monsoon
+P -61.2971, -298.8916, -1.6496,  0, 127, 127,  2,  Emil_Widgetton_(Quests)
+P 184.4298, 79.8300, 0.8237,  0, 240, 240,  2,  Dreadblade_Yiaga_S`Lon_(Raid)
+P -212.3868, -113.8537, 10.1104,  0, 0, 0,  2,  Unrepentant_Bronze_Temper
+P 320.1114, -672.3913, 5.8366,  0, 0, 0,  2,  Funeral_Dust_Warrior
+P 2.6854, -778.4357, 10.5630,  0, 127, 127,  2,  Flexing_Devout_Purpose_(Quests)
+P 371.9926, -487.7529, 10.9307,  240, 240, 240,  2,  Warning:_Aqua_Envoys_see_invis

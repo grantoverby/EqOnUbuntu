@@ -1,0 +1,20 @@
+P -155.0000, 1848.0000, 110.0000, 255, 0, 0, 3, to_The_Broodlands
+P -145.2586, 1837.5959, 110.8705, 255, 0, 0, 3, to_The_Broodlands
+P 3295.927, 798.339, 140.4328, 255, 0, 0, 3, to_The_Broodlands
+P -2435.856, 152.5818, 172.9592, 255, 0, 0, 3, to_The_Broodlands
+P -2259.0000, 483.0000, 123.0000, 0, 0, 0, 2, Kodama_the_Voltaic
+P -2395.0000, 143.0000, 173.0000, 0, 0, 0, 2, Mihoko_the_Rector
+P -2396.0000, 701.0000, 173.0000, 0, 0, 0, 2, Fumi_the_Valiant
+P -1778.0000, -2438.0000, -56.0000, 0, 0, 0, 2, Messenger_Drakes_and_Lore_Warden_(see_invis)
+P -1965.0000, -2137.0000, -56.0000, 0, 0, 0, 2, Yoshiaga
+P -219.0000, -1282.0000, -17.0000, 0, 0, 0, 2, Stormchaser
+P -1015.0000, -70.0000, 35.0000, 0, 0, 0, 2, Stormchaser
+P 2973.0000, -3091.0000, 286.0000, 0, 0, 0, 2, ShadowSplitter_(see_invis)
+P 2970.0000, -3216.0000, 286.0000, 0, 0, 0, 2, Mudforged_Protector_(see_invis)
+P 2720.0000, -3214.0000, 286.0000, 0, 0, 0, 2, Muligiwa_the_Toxic_(see_invis)
+P 2837.0000, -3134.0000, 309.0000, 0, 0, 0, 2, Iron_Forged_Protector_(see_invis)
+P 3338.0000, -3171.0000, 291.0000, 0, 0, 0, 2, Yar'Lir_the_Living_Storm
+P 3553.0000, 324.0000, 253.0000, 0, 0, 0, 2, Toshiharu
+P 3001.0000, -97.0000, 215.0000, 0, 0, 0, 2, Sugita_the_Vicarious
+P 80.0000, 339.0000, 247.0000, 0, 0, 0, 2, Yellow_Dirtdigger_bodybreaker
+

@@ -1,0 +1,12 @@
+P -1016.0000, -435.0000, 1.0000,  255, 0, 0,  3,  to_Everfrost_Peaks
+P 320.0000, 751.0000, 0.0000,  0, 0, 0,  2,  Hostage
+P 16.5182, -308.0257, 3.2082,  127, 64, 0,  2,  Demented_Amalgam_(Hunter)
+P 22.1360, -309.2968, 3.3145,  127, 64, 0,  2,  Hyptnotized_Holgresh_(Hunter)
+P 223.1662, -454.8354, 87.5188,  127, 64, 0,  2,  Spell-Torn_Holgresh_(Hunter)
+P -902.6795, -204.3581, 15.5166,  127, 64, 0,  2,  Demented_Amalgam_(Hunter)
+P 267.2681, -10.8586, 122.5318,  0, 0, 0,  2,  Balaeluo_the_Inflictor_(Boss)
+P 464.2875, 729.9986, 141.5310,  0, 0, 0,  2,  Ianlai_the_Corrupted_(Boss)
+P 936.0081, 609.9431, 124.1633,  0, 0, 0,  2,  Ialani_the_Corrupted_(Boss)
+P 473.5374, 727.7736, 140.0019,  0, 0, 0,  2,  The_Dream_Defiler_(Boss)
+P -580.0781, -254.5963, 0.0005,  240, 240, 0,  2,  Blocked
+P 179.8735, 153.9632, 0.5020,  240, 240, 0,  1,  TRAP

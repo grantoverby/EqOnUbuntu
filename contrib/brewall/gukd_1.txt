@@ -1,0 +1,13 @@
+P 786.0000, -160.0000, -27.0000,  255, 0, 0,  3,  Zone_In/Out
+P 201.0000, 409.0000, -3.0000,  255, 255, 0,  2,  TRAP
+P -21.0000, 545.0000, -5.0000,  255, 255, 0,  2,  TRAP
+P -471.0000, 360.0000, -75.0000,  0, 0, 0,  2,  Aikyik_of_the_Cauldron_(Boss)
+P -17.0000, 915.0000, -29.0000,  255, 255, 255,  2,  Mushroom_Field
+P 219.9477, 202.6192, -24.0731,  127, 64, 0,  2,  Blighted_Dar_Bruiser_(Hunter)
+P 6.2881, 213.2030, -23.4769,  127, 64, 0,  2,  Cauldron_of_Hate_Overseer_(Hunter)
+P -19.3973, 879.3096, -25.2531,  127, 64, 0,  2,  Yunta_Soothsayer_(Hunter)
+P 486.2685, 450.4772, 46.5158,  127, 64, 0,  2,  Blighted_Dar_Bruiser_(Hunter)
+P 294.6212, -219.8908, 1.5198,  127, 64, 0,  2,  Blighted_Dar_Bruiser_(Hunter)
+P 439.5330, 187.5070, -2.8533,  127, 64, 0,  2,  Yunta_Soothsayer_(Hunter)
+P -472.5827, 347.3467, -73.4784,  0, 0, 0,  2,  Korta_Archpriest_Bhotea_(Boss)
+P 507.5930, 395.7350, 65.3059,  0, 0, 0,  2,  Korta_Archpriest_Bhotea_(Boss)

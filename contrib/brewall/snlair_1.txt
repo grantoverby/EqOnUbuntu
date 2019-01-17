@@ -1,0 +1,2 @@
+P -238.0000, 70.0000, -12.0000,  255, 0, 0,  3,  to_Barindu,_Hanging_Gardens_(click_ladder)
+P 43.1043, -983.1306, -28.2737,  240, 240, 240,  2,  Under_water_area

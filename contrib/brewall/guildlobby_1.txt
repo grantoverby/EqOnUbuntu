@@ -1,0 +1,17 @@
+P -294.5451, -981.3595, -22.4078, 255, 0, 0, 3, to_Sunrise_Hills
+P -18.7610, 50.7950, 1.7540, 246, 0, 0, 3, to_The_Plane_of_Knowledge
+P -46.2555, -620.3671, -1.9980, 255, 0, 0, 3, to_Neighborhood_Guild_Hall
+P 48.9350, -619.8550, -1.9980, 255, 0, 0, 3, to_Standard_Guild_Hall
+P 244.5858, -415.1656, -1.9980, 255, 255, 255, 2, Corpse_Summoning_Altar
+P -194.3700, -205.4750, -1.9980, 240, 240, 240, 2, Guild_Message_Center
+P -251.5630, -417.9690, -1.9980, 255, 255, 255, 2, Corpse_Summoning_Altar
+P -269.6918, -972.1749, -22.4080, 0, 0, 0, 2, Annabelle_(Housing_information)
+P -196.2147, -472.9953, -0.4678, 250, 210, 0, 2, A_Shrewd_Banker_(Banker)
+P -199.1712, -350.1772, -0.4742, 0, 128, 0, 2, A_Disciple_of_Luclin_(Merchant)
+P 194.8678, -478.5297, -0.4735, 250, 210, 0, 2, A_Shrewd_Banker_(Banker)
+P 194.9528, -351.8676, -0.4759, 0, 128, 0, 2, A_Disciple_of_Luclin_(Merchant)
+P 191.1570, -210.4917, -0.4759, 240, 240, 240, 2, Guild_Message_Center
+P 204.9108, -614.7122, -0.4759, 240, 240, 240, 2, Guild_Message_Center
+P 1.1935, -605.9785, 0.1888, 255, 0, 0, 3, Magnus_Alaria_(Wayfarer_Camp_Teleport)
+P -203.2713, -607.8622, 0.3563, 240, 240, 240, 2, Guild_Message_Center
+P 92.6558, -591.7341, -1.9980, 0, 240, 0, 2, Tavid_Dennant_(Chronobines_Merchant)

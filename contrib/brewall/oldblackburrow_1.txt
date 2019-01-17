@@ -1,0 +1,15 @@
+P -12.6172, 424.2468, 38.1002, 255, 0, 0, 3, to_Oceangreen_Hills
+P 487.7466, 27.0170, 27.9823, 255, 0, 0, 3, to_Everfrost_Peaks
+P -211.2070, -199.4646, -108.1535, 255, 255, 0, 2, Blocked_Door
+P -213.1659, 236.5475, 43.4575, 255, 255, 0, 2, TRAP:_Fake_Floor
+P 403.5636, -223.7679, -178.6116, 128, 64, 0, 2, Fleshsmith_Raxtonar_(Hunter)
+P -253.4114, -291.4292, -165.6926, 128, 64, 0, 2, Larq_the_Butcher_(Hunter)
+P -136.1456, -195.4236, -103.6874, 128, 64, 0, 2, Vileak_the_Fang_(Hunter)
+P -139.6787, -287.4710, -71.4072, 128, 64, 0, 2, Snake_Hander_Graxos_(Hunter)
+P -444.9105, 86.7522, -155.5096, 128, 64, 0, 2, Brewmaster_Drachty_(Hunter)
+P 381.2044, 411.3947, -61.8428, 128, 64, 0, 2, High_Shaman_Lo'Eszch_(Hunter)
+P 458.0879, 146.7299, -14.6841, 128, 64, 0, 2, High_Commander_Xantheos_(Hunter)
+P -555.5072, 15.2905, -70.6712, 128, 64, 0, 2, Slavemaster_Raouk_(Hunter)
+P -615.0000, 343.0000, -142.0000, 128, 64, 0, 2, Vrex_mal_Martyr_(Hunter)
+P 686.2266, -241.7061, -187.4642, 128, 64, 0, 2, Rottrued_(Hunter)
+

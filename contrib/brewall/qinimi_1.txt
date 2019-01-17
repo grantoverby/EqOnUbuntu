@@ -1,0 +1,13 @@
+P -351.0000, 780.0000, -18.7490,  255, 0, 0,  3,  to_Riwwi,_Coliseum_of_Games
+P 202.0000, 58.0000, -13.7490,  255, 0, 0,  3,  to_Ferubi,_Forgotten_Temple_of_Taelosia
+P -266.0000, -764.0000, -18.7490,  255, 0, 0,  3,  to_Barindu,_Hanging_Gardens
+P -369.0000, -586.0000, -18.7500,  255, 0, 0,  3,  to_Barindu,_Hanging_Gardens
+P 1674.0000, 287.0000, -18.0000,  255, 0, 0,  3,  to_Natimbi,_The_Broken_Shores
+P 992.0000, -280.0000, 0.0000,  0, 0, 0,  2,  Councilman_Tentric
+P 492.1780, -540.2910, -18.7490,  255, 255, 255,  2,  Graveyard
+P 634.2200, -258.9109, -16.2480,  0, 0, 0,  2,  Councilman_Sislono_Nislan
+P 503.0835, -533.8370, -18.7480,  0, 0, 0,  2,  Besana_the_Gravedigger
+P 1053.0000, -438.0000, -18.7470,  240, 0, 0,  2,  Succor
+P 932.9989, -285.6634, -18.7480,  0, 0, 240,  1,  GS:_Rarundel's_Open_Memory_Box
+P 1047.6852, -318.9667, -13.4019,  0, 0, 240,  1,  GS:_Kreshin's_Journal_Page
+P 924.0007, 373.7473, -8.7480,  0, 0, 0,  2,  Rarundel's_Memory_(Roam)

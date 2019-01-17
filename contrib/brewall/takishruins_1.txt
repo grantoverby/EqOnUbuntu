@@ -1,0 +1,14 @@
+P 96.0407, -121.3133, 100.6123,  255, 0, 0,  3,  to_Elddar_Forest_(click_ground)
+P 983.0000, -269.0000, 57.3682,  240, 0, 0,  3,  to_South_Desert_of_Ro_(Click_Rope)
+P 993.0000, -279.0000, 57.3682,  240, 0, 0,  2,  Succor
+P 568.4900, -730.8390, 208.2160,  255, 255, 0,  2,  Instance
+P 311.1410, -18.2060, -1.1460,  0, 0, 0,  2,  Cirwea_Strongbow
+P -358.6470, -23.9120, 125.9680,  0, 0, 0,  2,  Compact_Prefect_Thosen
+P -358.4690, -3.2660, 125.9680,  0, 0, 0,  2,  Compact_Prefect_Tweyne
+P -358.9660, 16.7210, 125.9680,  0, 0, 0,  2,  Compact_Prefect_Unala
+P 365.7000, 555.7520, 87.0360,  0, 128, 128,  2,  Lilthill`yan`s_Ghost_(Mission)
+P 25.6200, 413.4710, 169.3230,  0, 0, 0,  2,  Krylin
+P 784.9848, 164.0686, 52.3570,  0, 0, 0,  2,  Night_Terror_(Named)
+P -87.4970, -328.5650, 124.0680,  0, 0, 0,  2,  The_Frantic_Construct_(Named)
+P 516.8643, 441.0108, 72.1475,  0, 0, 240,  1,  GS:_Psilocybe
+P -122.0780, 274.3299, 157.1663,  0, 0, 240,  1,  GS:_Fallen_Dry_Treant_Branch

@@ -1,0 +1,10 @@
+P -686.0000, 1030.0000, 56.0000,  255, 0, 0,  3,  Zone_In/Out
+P -185.0000, -719.0000, -27.0000,  0, 0, 0,  2,  Boss
+P -112.0000, -728.0000, -27.0000,  0, 0, 0,  2,  Uhiur_the_Fallen_(Boss)
+P -222.1366, 185.8954, -15.8417,  127, 64, 0,  2,  Abandoned_Jin_Sorcerer_(Hunter)
+P -65.6085, 174.3865, -13.5105,  127, 64, 0,  2,  Ghostly_Neophyte_(Hunter)
+P -430.9818, -398.3228, -86.4682,  127, 64, 0,  2,  Witness_of_Hate_Preacher_(Hunter)
+P -544.9016, -556.8987, -109.4817,  0, 0, 0,  2,  Uhiur_the_Fallen_(Boss)
+P -541.3165, -554.8384, -109.4780,  0, 0, 0,  2,  Shadowcreeper_(Boss)
+P -623.8639, 873.3143, 11.5965,  127, 64, 0,  2,  Witness_of_Hate_Preacher_(Hunter)
+P -512.0261, -126.6271, -59.0000,  127, 64, 0,  2,  Witness_of_Hate_Preacher_(Hunter)

@@ -1,0 +1,13 @@
+P 44.2332, 753.7361, 0.5418, 255, 0, 0, 3, to_Fortress_Mechantos_(click)
+P 9.8705, 880.4279, -0.2914, 0, 255, 0, 2, Succor
+P -73.7718, 211.8255, 348.5680, 0, 0, 86, 2, Engineer_Gyrzim
+P -106.3296, 263.6794, 34.3763, 0, 0, 0, 1, Scout_Gyriospire_Beza_(Mission-spot)
+P 2.0085, 210.9431, 457.3191, 240, 0, 0, 1, Minotaur_Warleader_(Named,Roam)
+P 42.7404, 224.4464, 348.5885, 0, 0, 127, 1, Fuelmaster_XXI
+P 23.0191, 256.0214, 457.3188, 255, 255, 255, 2, Safe_Room
+P -56.1415, 148.8143, 341.4290, 240, 240, 240, 2, GS:_The_Trainng_Mat
+P -12.2625, 111.2563, 459.0115, 240, 240, 240, 2, GS:_Valve_in_infirmary
+P -34.1197, 121.6658, 601.4378, 240, 240, 240, 2, GS:_ramp_and_control_room
+P -0.7006, 188.6742, 294.5611, 240, 240, 240, 2, Refueling_Room
+P -77.0752, 240.8960, 1.3785, 240, 240, 240, 2, Meldrath_Commander_Meeting_Room
+P 26.6755, 167.3505, 6.3607, 240, 240, 240, 2, Planning_Room

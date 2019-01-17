@@ -1,0 +1,16 @@
+P -109.2759, 32.8222, 12.7806,  255, 0, 0,  3,  to_North_Desert_of_Ro
+P -534.5596, -127.7163, 18.0854,  240, 240, 0,  1,  TRAP
+P -54.5613, 589.6030, 0.0020,  240, 240, 0,  1,  TRAP
+P -341.1125, 757.4303, 0.0020,  240, 240, 0,  1,  TRAP
+P 157.2248, 1317.7151, 2.5560,  240, 240, 0,  1,  TRAP
+P -478.5164, 1242.9572, 1.7972,  0, 0, 0,  2,  Vagrant_Nalikad_(Boss)
+P 438.9140, 1752.7020, 4.6580,  0, 0, 0,  2,  Vagrant_Nalikad_(Boss)
+P -480.0000, 1247.0000, 0.0000,  0, 0, 0,  2,  High_Preservationist_Dorjan_(Boss)
+P 62.0000, 1701.0000, 0.0000,  0, 0, 0,  2,  Grilnir_the_Unrelenting_(Boss)
+P 318.3675, 586.1024, 1.5142,  127, 64, 0,  2,  Hollow_Flowkeeper_Sage_(Hunter)
+P 250.8547, 1326.8003, 5.5122,  127, 64, 0,  2,  Raving_Rock_Thrower_(Hunter)
+P 101.4730, 944.2355, 0.0020,  127, 64, 0,  2,  Panicked_Summoning_(Hunter)
+P -207.5292, 890.0416, 0.0020,  127, 64, 0,  2,  Geomantic_Compact_Repairer_(Hunter)
+P -422.2323, 1039.1812, 0.0020,  127, 64, 0,  2,  Swaying_Sand_Shaper_(Hunter)
+P 134.6815, 641.0375, 0.0020,  127, 64, 0,  2,  Chaotic_Manifestation_(Hunter)
+P 132.3503, 644.4387, 1.5210,  127, 64, 0,  2,  Idle_Jeweled_Guard_Champion_(Hunter)

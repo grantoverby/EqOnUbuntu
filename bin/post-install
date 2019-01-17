@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+source "$(cd "$(dirname "${0}")"; pwd -P)/../lib/vars"
+rm -f "${EQHOME}/everquest/maps/brewall"
+ln -s "${EQHOME}/contrib/brewall" "${EQHOME}/everquest/maps/brewall"
+crudini --set "${EQHOME}/everquest/defaults.ini" "Main" "MapSkin" "brewall"
+unix2dos "${EQHOME}/everquest/defaults.ini"
+

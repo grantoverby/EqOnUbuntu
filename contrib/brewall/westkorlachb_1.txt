@@ -1,0 +1,3 @@
+P 0.0000, -4.0000, -0.6590,  255, 0, 0,  3,  to_Stoneroot_Falls
+P -1214.2799, -88.5880, -16.8090,  0, 0, 0,  2,  Captain_Therimel_trigger
+P -1263.6439, -164.5250, -22.9020,  0, 0, 0,  2,  Captain_Therimel

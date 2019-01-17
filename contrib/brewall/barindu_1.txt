@@ -1,0 +1,13 @@
+P -683.0000, 1537.0000, 0.0000,  255, 0, 0,  3,  to_Qinimi,_Court_of_Nihilia
+P -695.0933, 1364.8301, -124.4524,  240, 0, 0,  3,  to_Qinimi,_Court_of_Nihilia
+P -223.0000, 510.0000, 0.0000,  255, 0, 0,  3,  to_Ferubi,_Forgotten_Temple_of_Taelosia
+P -1136.0000, -246.0000, 0.0000,  255, 0, 0,  3,  to_Riwwi,_Coliseum_of_Games
+P -590.0000, 1457.0000, -126.2470,  255, 0, 0,  2,  Succor
+P 1239.0000, -501.0000, 0.0000,  255, 255, 0,  2,  Blocked_Zoneline
+P 642.0000, 339.0000, 0.0000,  255, 255, 0,  2,  Instance_(Mission)
+P -265.0000, 114.0000, 0.0000,  0, 0, 240,  1,  GS:_elongated_silvery_key
+P 649.0000, -230.0000, 0.0000,  0, 0, 0,  2,  High_Priest_Diru_Riwirn
+P 748.5511, -244.4102, -126.2258,  0, 0, 0,  2,  Apprentice_Udranda
+P 709.4740, 379.4417, -124.7125,  0, 127, 127,  2,  Gamesh_(Missions)
+P 79.4448, 169.1691, -124.7160,  0, 0, 0,  2,  Overseer_Oltix
+P 583.1583, -604.1532, -102.4979,  0, 0, 240,  1,  GS:_Clay_Golem_Parts

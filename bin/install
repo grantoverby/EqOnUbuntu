@@ -1,7 +1,15 @@
 #!/bin/bash
 set -e
 source "$(cd "$(dirname "${0}")"; pwd -P)/../lib/vars"
-sudo apt-get install -y wine-stable winetricks winbind firejail firejail-profiles wget
+sudo apt-get update
+sudo apt-get install -y \
+	wine-stable \
+	winetricks \
+	winbind \
+	firejail \
+	firejail-profiles \
+	wget \
+	dos2unix
 hash -r
 winetricks win7
 winetricks corefonts d3dx9_43

@@ -1,0 +1,14 @@
+P -20.2771, 23.4136, -19.2619,  255, 0, 0,  3,  to_The_Void
+P 50.7496, -33.5580, 23.5224,  0, 128, 0,  2,  Herald_of_Druzzil_Ro_(General)
+P -835.6432, 738.2303, 13.7059,  0, 0, 0,  2,  Telivar
+P -1059.4141, -243.5784, 178.8326,  128, 64, 0,  2,  Hexxt_Shadowslayer_(Named)
+P -1506.7358, -256.0745, 177.1618,  128, 64, 0,  2,  Hexxt_Shadowstep_(Named)
+P -1171.5424, 997.7468, 329.8759,  128, 64, 0,  2,  Dire_Feran_Mindrender_(Named)
+P -1861.5681, 598.3998, 359.6153,  128, 64, 0,  2,  Bazu_Warsmasher_(Named)
+P -2020.1824, 266.9700, 371.3128,  128, 64, 0,  2,  Grg'nok_(Named)
+P -1421.3739, 110.3841, 164.6442,  128, 64, 0,  2,  Hexxt_Soulhunter_(Named,Roam)
+P -1012.2672, 334.0286, 363.2136,  128, 64, 0,  2,  Overlord_Gevalark_the_Dread_(Named,Roam)
+P -896.6995, 87.9713, 91.3542,  128, 64, 0,  2,  Noc_Bloodswarmer_(Named)
+P -759.0663, 1032.9371, -7.7664,  128, 64, 0,  2,  Pixxt_Deathbinder_(Named)
+P -1305.3289, 1385.5375, 337.7283,  127, 64, 0,  2,  Grg'nok_(Hunter,Roam)
+P -1160.5731, 418.6146, 139.8139,  127, 64, 0,  2,  Veltarik_(Hunter)

@@ -1,0 +1,9 @@
+P 789.6252, -335.0445, -59.4756,  255, 0, 0,  3,  to_Vegarlson,_The_Earthen_Badlands
+P 103.6229, -161.6882, -63.9980,  240, 240, 0,  2,  Locked_Door_-_Kill_all_mobs_to_unlock
+P -66.1350, -31.9780, -23.9980,  0, 0, 0,  2,  War_Chieftan_Galronar
+P -33.4956, -332.1054, -22.4649,  0, 0, 0,  2,  War_Chieftan_Birak
+P -255.0154, -268.6191, -22.4767,  0, 0, 0,  2,  War_Cheifetan_Awisano
+P -2043.7197, -412.2337, -223.5672,  240, 127, 0,  2,  Avatar_of_Earth_(Raid)
+P -408.8838, -178.7618, -60.0238,  240, 127, 0,  2,  Warlord_Gintolaken_(Raid)
+P -1296.9019, -397.7046, 16.0020,  240, 240, 0,  2,  One-Way_Fall_to_Lower_Area
+P -486.5473, -157.7359, -62.4728,  240, 240, 0,  2,  Locked_Door_-_Kill_all_mobs_to_unlock

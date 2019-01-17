@@ -1,0 +1,10 @@
+P -243.0017, 459.4029, 0.2082,  255, 0, 0,  3,  to_Everfrost_Peaks
+P -142.0000, -1054.0000, 0.0000,  0, 0, 0,  2,  The_Prime_Steward_(Boss)
+P 1052.0588, -1322.9286, 0.2082,  127, 64, 0,  2,  Conscious_Magical_Essence_(Hunter)
+P 866.6534, -1690.8887, 0.2082,  127, 64, 0,  2,  Conscious_Magical_Essence_(Hunter)
+P 1050.9701, -1314.6001, 0.2082,  127, 64, 0,  2,  Flighty_Amalagam_(Hunter)
+P 453.8409, -1377.8373, 47.1582,  127, 64, 0,  2,  Ravaged_Ancient_Holgresh_(Hunter)
+P -241.3401, -1542.3967, -39.3273,  0, 0, 0,  2,  Ancient_Marrow_(Boss)
+P 1057.3716, -999.9188, 1.5265,  127, 64, 0,  2,  Concious_Magical_Essence_(Hunter)
+P 410.9216, -1343.5769, 48.7396,  127, 64, 0,  2,  Flighty_Amalgam_(Hunter)
+P 553.3623, -1913.4647, 2.0160,  0, 0, 0,  2,  Ancient_Marrow_(Boss)

@@ -1,0 +1,3 @@
+P 10.4230, 243.7350, 11.3460, 255, 0, 0, 3, to_The_Plane_of_Knowledge
+P 42.5920, -124.0200, 20.9400, 255, 255, 255, 2, Summoning_Pit
+P 141.7065, 61.4385, -15.3117, 0, 0, 0, 2, Keeper_of_Lost_Things_(Corpse_Summoner)

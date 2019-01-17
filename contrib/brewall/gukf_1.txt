@@ -1,0 +1,9 @@
+P 702.0000, -552.0000, 33.0000,  255, 0, 0,  3,  Zone_In/Out
+P -312.0000, 894.0000, -58.0000,  0, 0, 0,  2,  Boss
+P 293.1340, 751.0170, -21.9990,  0, 0, 0,  2,  Yaszil_The_Assassin_(Boss)
+P -4.4310, 610.0720, 64.0010,  0, 0, 0,  2,  Noble_Reebbiz_(Rescue)
+P -103.1146, 493.8199, 36.0983,  127, 64, 0,  2,  Gnashing_Burrower_(Hunter)
+P -99.4976, -450.0613, -10.7917,  127, 64, 0,  2,  Pitiful_Darta_Adenturer_(Hunter)
+P -202.3537, -265.0728, -9.6248,  127, 64, 0,  2,  Raving_Jinta_Explorer_(Hunter)
+P 291.1161, -4.8276, 27.5317,  127, 64, 0,  2,  Raving_Jinta_Explorer_(Hunter)
+P -71.2402, 46.5985, 1.5181,  127, 64, 0,  2,  Pitiful_Darta_Adventurer_(Hunter)

@@ -1,0 +1,15 @@
+P 342.0000, -1269.0000, -98.0000,  255, 0, 0,  3,  to_South_Desert_of_Ro
+P 117.1440, 404.7840, -19.4990,  0, 0, 0,  2,  Dokolet_of_Rujark_(Boss)
+P -162.3700, 1055.0330, -16.4990,  0, 0, 0,  2,  Vokrek_of_Rujark_(Boss)
+P -899.0000, 999.0000, -21.0000,  0, 0, 0,  2,  Raid_Warden
+P 668.0000, -329.0000, -17.0000,  0, 0, 0,  2,  Raid_Mini_Boss
+P 569.0000, -808.0000, -37.0000,  0, 0, 0,  2,  Raid_Taskmaster
+P -1395.6569, 1152.5844, -19.4980,  0, 0, 0,  2,  Vokrek_of_Rujark_(Boss)
+P 777.3411, -377.9239, -25.4807,  127, 64, 0,  2,  Rebellious_Archanist_(Hunter)
+P -1394.5760, 1150.0486, -14.9793,  0, 0, 0,  2,  Dokolet_of_Rujark_(Boss)
+P 512.4061, -979.3566, -36.7480,  127, 64, 0,  2,  Rebellious_Arcanist_(Hunter)
+P -228.8895, 1073.9146, -8.5507,  127, 64, 0,  2,  Steelslave_Blademaster_(Hunter)
+P -1174.5372, 1007.6272, -18.7480,  127, 64, 0,  2,  Steelslave_Ravager_(Hunter)
+P -602.0361, 224.8841, -18.7480,  127, 64, 0,  2,  Steelslave_Blademaster_(Hunter)
+P -604.5424, 1080.1410, -20.9980,  127, 64, 0,  2,  Rebellious_Arcanist_(Hunter)
+P -1080.9380, 1119.2305, -18.7480,  240, 240, 0,  2,  TRAP

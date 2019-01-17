@@ -1,0 +1,6 @@
+P 61.0000, 32.0000, 0.0000, 255, 0, 0, 3, to_Field_of_Scale
+P -520.9931, -143.8494, -54.8535, 128, 64, 0, 2, Grandmaster_Merxs_(Named)
+P -354.8667, -183.0400, -89.8008, 128, 64, 0, 2, Lich_Guardian_Ssicroz_(Named)
+P -332.0406, -238.8783, -71.8509, 128, 64, 0, 2, Imperial_Enforcer_(PH_roam)
+P -88.2256, 7.3464, -33.8694, 128, 64, 0, 2, Eazack_the_Cruel_(Named)
+P -342.3591, 23.2368, -134.9409, 128, 64, 0, 2, Blademaster_Kraszen_(Named)

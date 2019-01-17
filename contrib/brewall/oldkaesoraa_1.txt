@@ -1,0 +1,12 @@
+P -105.0000, 2159.7500, -154.3750, 0, 0, 0, 2, Chief_Groundskeeper_Dralnit
+P -160.0000, 1807.0000, -164.7500, 0, 0, 0, 2, Asst_Librarian_Krekn
+P 1218.0000, 1766.2500, -157.0000, 0, 0, 0, 2, Aquadominus_Selestian
+P 2488.0000, 840.0000, -764.0000, 0, 0, 0, 2, Library_Director_Eslisar
+P 923.8949, 1305.8246, -160.8624, 128, 64, 0, 2, Teacher's_Pet_(Hunter,Roam)
+P -164.5269, 909.7084, -80.8604, 128, 64, 0, 2, Skeleton_Keymaster_(Hunter)
+P 1250.6670, 1245.4702, -257.5497, 128, 64, 0, 2, Assistant_Librarian_Krekn_(Hunter,Roam)
+P 2044.4257, 1521.3733, -680.5085, 128, 64, 0, 2, Sorakan_the_Mighty_(Hunter,Roam)
+P 1243.3727, 1141.7766, -188.9062, 128, 64, 0, 2, Thisla,_Twinskull_Matron_(Hunter)
+P 1236.2283, 949.8091, -160.8638, 128, 64, 0, 2, Aquadominus_Selestain_(Hunter,Roam)
+P 2214.0000, 1121.0000, -759.0000, 128, 64, 0, 2, Grellik,_Master_of_Torments_(Hunter)
+
