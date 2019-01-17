@@ -1,0 +1,11 @@
+#!/bin/bash
+set -e
+source "$(cd "$(dirname "${0}")"; pwd -P)/../lib/vars"
+sudo apt-get install -y wine-stable winetricks winbind firejail firejail-profiles wget
+winetricks win7
+winetricks corefonts d3dx9_43
+winetricks win7
+ln -s "${WINEPREFIX}/drive_c/users/Public/Daybreak Game Company/Installed Games/EverQuest" "${EQHOME}/everquest"
+wget https://launch.daybreakgames.com/installer/EQ_setup.exe -O  "${WINEPREFIX}/drive_c/EQ_setup.exe"
+wine "${WINEPREFIX}/drive_c/EQ_setup.exe"
+
