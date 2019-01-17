@@ -1,5 +1,5 @@
 #!/bin/bash
 set -e
 source "$(cd "$(dirname "${0}")"; pwd -P)/../lib/vars"
-wine "${WINEPREFIX}/drive_c/EverQuest/LaunchPad.exe"
+wine "${WINEPREFIX}/drive_c/users/Public/Daybreak Game Company/Installed Games/EverQuest/LaunchPad.exe"
 
