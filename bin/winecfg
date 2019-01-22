@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+source "$(cd "$(dirname "${0}")"; pwd -P)/../lib/vars"
+wine winecfg
+
