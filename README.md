@@ -1,6 +1,6 @@
 &#x200B;
 
-Install Ubuntu 18.04. Any desktop flavor should work; I use Xubuntu.
+Install Ubuntu 18.04. Any desktop flavor should work. This was tested on Xubuntu 18.04.
 
 Run the following in a terminal.
 
@@ -19,6 +19,6 @@ Wait for EQ to fully download, then exit the patcher.
 
     /opt/eq/bin/post-install
 
-To run EQ
+Run EQ.
 
     /opt/eq/bin/launch
