@@ -1,5 +1,3 @@
-&#x200B;
-
 Install Ubuntu 18.04. Any desktop flavor should work. This was tested on Xubuntu 18.04.
 
 Run the following in a terminal.
