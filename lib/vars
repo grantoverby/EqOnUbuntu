@@ -1,4 +1,4 @@
 export EQHOME="$(dirname "$(readlink -f "$(dirname "${0}")")")"
-export WINEARCH="win32"
+export WINEARCH="win64"
 export WINEPREFIX="${EQHOME}/wineprefix"
 
