@@ -8,6 +8,8 @@ If you can confirm if this does, or doesn't, work, please update the open issue 
 
 ---
 
+# Instructions
+
 Install Ubuntu 18.04. Any desktop flavor should work. This was tested on Xubuntu 18.04.
 
 Run the following in a terminal.
