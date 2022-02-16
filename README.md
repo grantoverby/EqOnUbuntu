@@ -1,10 +1,8 @@
 # 64bit EverQuest Notice
 
-This repo has been updated with what I hope is a fix to work with EQ's new 64 bit client. I don't have a test box available, so YOLO.
+This repo has been updated to work with EQ's new 64 bit client.
 
 You may need to start with a fresh install, and as such, the install directory in the guide below has been changed. If you'd like to try without reinstalling, change win32 to win64 in lib/vars or pull the latest changes.
-
-If you can confirm if this does, or doesn't, work, please update the open issue on GitHub or email grant.overby@gmail.com
 
 ---
 
