@@ -1,4 +1,4 @@
-# 64bit EverQuest Notice
+# 64 bit EverQuest Notice
 
 This repo has been updated to work with EQ's 64 bit client.
 
